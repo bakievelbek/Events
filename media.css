@@ -1,0 +1,509 @@
+@media (max-width: 1199.98px){
+    
+    
+    header img{
+        width: 100%;
+    }
+    
+        .link{
+            font-size: 12px;
+        }
+    .clock{
+        width: 829px;
+        font-size: 95px;
+    }
+    .days{
+       
+        font-size: 20px;
+        top: 78%;
+        left: 5.9%;
+    }
+    
+    .hours{
+        font-size: 20px;
+        top: 78%;
+        left: 31.9%;
+    }
+    .minutes{
+
+        font-size: 20px;
+        top: 78%;
+        left: 58%;
+
+    }
+    .seconds{
+        font-size: 20px; 
+        top: 78%;
+        left: 84.5%;
+} 
+.icon1{
+    width: 140px; 
+    height: 149px;
+    top: 522px;
+    left: 15px;
+}
+
+.icon2{
+    width: 132px; 
+    height: 139px;
+    
+    top: 512px;
+    left: 136px;
+    
+}
+
+.icon3{
+    width: 133px; 
+    height: 135px;
+    
+    top: 503px;
+    left: 255px;
+    
+}
+
+.icon4{
+    width: 142px; 
+    height: 146px;
+    
+    top: 485px;
+    left: 365px;
+    z-index: 2;
+}
+
+.icon5{
+    width: 138px; 
+    height: 146px;
+    
+    top: 469px;
+    left: 486px;   
+}
+   .part2 .reg{
+        width: 300px;
+    }
+    .reg .ipt{
+        width: 255px;
+    }
+    .reg button {
+        width: 255px;
+    }
+    .reg h2{
+        font-size: 25px;
+    }
+    
+    .reg input{
+        font-size: 13px;
+    }
+    .reg button {
+    
+        font-size: 17px;
+    }
+    .part2 p {
+        font-size: 12px;
+}
+.part2 h1 {
+    font-size: 45px;
+}
+
+.part3{
+    top: -73px;
+    height: 128px;
+}
+.part4{
+    height: 556px;
+}
+.part5{
+    top: 500px;
+}
+.part4 img{
+    top: 0px;
+    left: 17px;
+}
+.mid {
+    z-index: 7;
+    margin-top: 59px;
+}
+.mid h1{
+    font-size: 46px;
+}
+.mid p{
+    font-size: 13px;
+}
+
+.info_cube{
+    margin: 10px 0;
+}
+.info_cube_1{
+    margin: 10px 0;
+}
+
+}
+/* ---------------------------------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------- */
+
+@media (max-width: 991.98px){
+    .clock{
+        width: 718px;
+        font-size: 72px;
+    }
+    .days{
+        font-size: 17px;
+        top: 78%;
+        left: 5.9%;
+    }
+    
+    .hours{
+        font-size: 17px;
+        top: 78%;
+        left: 31.9%;
+    }
+    .minutes{
+
+        font-size: 17px;
+        top: 78%;
+        left: 57%;
+
+    }
+    .seconds{
+        font-size: 17px; 
+        top: 78%;
+        left: 84.5%;
+} 
+    .icon1{
+    width: 140px; 
+    height: 149px;
+    top: 528px;
+    left: 41px;
+    
+}
+
+    .icon2{
+    width: 132px; 
+    height: 139px;
+    top: 516px;
+    left: 162px;
+    
+}
+
+    .icon3{
+    width: 133px; 
+    height: 135px;
+    top: 501px;
+    left: 292px;
+    
+}
+
+    .icon4{
+    width: 138px; 
+    height: 150px;
+    top: 491px;
+    left: 406px;
+    z-index: 2;
+}
+
+    .icon5{
+    width: 138px; 
+    height: 146px;
+    top: 476px;
+    left: 526px;
+    
+}
+
+.part2 h1 {
+    font-size: 36px;
+}
+    
+.part2 .reg{
+    top: -97px;
+    left: 43px;
+    height: 490px;
+}
+
+
+.reg button {
+    margin: 13px auto;
+}
+.tme,
+.stuff{
+    font-size: 18px;  
+    
+}
+.tme_1,
+.stuff_1{
+    font-size: 18px;  
+    
+}
+
+.tme{
+    position: absolute;
+    top: 28px;
+    left: 100px;
+    
+}
+
+.stuff{
+    position: absolute;
+    top: 28px;
+    left: 300px;
+}
+
+.tme_1{
+    position: absolute;
+    top: 28px;
+    left: 65px;
+}
+
+.stuff_1{
+    position: absolute;
+    top: 28px;
+    left: 220px;
+}
+
+.card-body{
+    font-size: 14px;
+}
+
+.part3{
+    top: -138px;
+    height: 183px;
+}
+.part4{
+    top: 266%;
+    height: 514px;
+}
+.part5 {
+    top: 462px;
+    height: 97px;
+}
+
+.part4 img{
+    top: 0px;
+    left: 17px;
+    width: 35%;
+}
+.mid {
+    margin-top: 48px;
+}
+.mid h1 {
+    font-size: 32px;
+}
+.mid p {
+    font-size: 12px;
+}
+.mid button {
+    width: 202px;
+    font-size: 16px;
+}
+
+
+.info_cube{
+    height: 215px;
+    width: 215px;
+}
+
+
+
+.info_cube_1{
+    height: 215px;
+    width: 215px;
+}
+.info_cube h2{
+    color: #fff;
+    font-family: 'Roboto Slab';
+    font-size: 33px;
+  }
+  .info_cube p {
+    color: #fff;
+    font-size: 15px;
+    margin: 17px auto;
+    font-family: 'Roboto Slab';
+  }
+  
+  .info_cube .fa{
+    color: #fff;
+    font-size: 28px;
+    cursor: pointer;
+  }
+
+}
+/* ---------------------------------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------- */
+@media (max-width: 767.98px){
+
+    header{
+        height: 609px;
+    }
+    
+    .link{
+        display: none;
+    }
+    .nav{
+        display: flex;
+        
+      }
+      .envato{
+        display: none;
+    }
+      .envato1{
+        display: block;
+        height: 37px;
+        }
+        .clock{
+            width: 550px;
+            font-size: 39px;
+        }
+        .days,
+        .hours,
+        .minutes,
+        .seconds{
+            display: none;
+        }
+        .nav-link{
+            font-size: 16px;
+            border: 2px #49454a solid;
+            display: block;
+        }
+        .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+            background-color: #90d23d;
+           
+        }
+        .dropdown-toggle::after{
+            display: none;
+        }
+        .dropdown-item{
+           cursor: pointer;
+        }
+        
+        
+        .icon1{
+            width: 109px;
+            height: 119px;
+            top: 368px;
+            left: 28px;
+        }
+        
+            .icon2{
+                width: 109px;
+                height: 119px;
+                top: 359px;
+                left: 120px;
+            
+        }
+        
+            .icon3{
+                width: 111px;
+                height: 116px;
+                top: 347px;
+                left: 209px;
+            
+        }
+        
+            .icon4{
+     width: 112px; 
+    height: 127px;
+    top: 334px;
+    left: 308px;
+        }
+        
+            .icon5{
+                width: 116px;
+                height: 122px;
+                top: 320px;
+                left: 400px;
+            
+        }
+        
+        
+        .part1{
+            height: 125px;
+        }
+        .column {
+            margin-top: 78px;
+        }
+        .part2 .reg {
+            position: relative;
+            height: 490px;
+            top: 21px;
+            left: 70px;
+            width: 384px;
+        }
+        .reg .ipt{
+            width: 299px;
+        }
+        .reg button{
+            width: 299px;
+        }
+        
+        .tme{
+            left: 56px;
+        }
+        
+        .stuff{
+            
+            top: 28px;
+            left: 220px;
+        }
+        
+        .tme_1{
+            
+            top: 28px;
+            left: 20px;
+        }
+        
+        .stuff_1{
+            
+            top: 28px;
+            left: 150px;
+            font-size: 14px;
+        }
+        .card .fa {
+            font-size: 23px;
+        }
+        /* .part3{
+            top: 1051px;
+            height: 91px;
+        }
+        .part4{
+            top: 371%;
+            height: 514px;
+        }
+        .part5{
+            top:1477px;
+        }
+        .part4 img{
+            top: 0px;
+            left: 17px;
+            width: 35%;
+        }
+        .mid {
+            margin-top: 58px;
+        }
+        .mid h1 {
+            font-size: 32px;
+        }
+        .mid p {
+            font-size: 10px;
+        }
+        .mid button {
+            width: 202px;
+            font-size: 16px;
+        } */
+}
+
+/* ---------------------------------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------- */
+@media (max-width: 575.98px){
+    .envato1{
+        display: inline-block;
+        width: initial;
+        }
+        .clock{
+            width: 494px;
+            font-size: 28px;
+        }
+        
+        
+    
+}
